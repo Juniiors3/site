@@ -129,7 +129,7 @@ export default function App() {
             >
               <div className="aspect-[3/4] rounded-2xl overflow-hidden shadow-2xl">
                 <img 
-                  src="https://picsum.photos/seed/mother-love/800/1067" 
+                  src="https://fv5-4.files.fm/thumb_show.php?i=fjefg62f3r&view&v=1&PHPSESSID=d995b470bca9faf98fd24b0d5be1fb3fe58d4264/800/1067" 
                   alt="Motherhood" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
